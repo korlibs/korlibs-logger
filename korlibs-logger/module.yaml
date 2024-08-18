@@ -9,4 +9,4 @@ dependencies:
   - com.soywiz:korlibs-platform:6.0.0: exported
 
 test-dependencies:
-
+  - org.jetbrains.kotlinx:kotlinx-coroutines-test:1.9.0-RC
